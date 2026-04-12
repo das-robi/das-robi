@@ -13,10 +13,10 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devrobindas/)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](YOUR_FACEBOOK_LINK)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr)](YOUR_FIVERR_LINK)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/s/ljPNLra)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:developerrobindas@gmail.com)
 
 ---
 
