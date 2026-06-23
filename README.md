@@ -24,11 +24,9 @@
 ## Programming Languages
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart)
 
 ## Mobile Development
 ![Android](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android)
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
 
 ## Web Development
 ![WordPress](https://img.shields.io/badge/WordPress-blue?style=for-the-badge&logo=wordpress)
