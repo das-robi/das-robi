@@ -2,7 +2,6 @@
 
 ## 🚀 About Me
 - 📱 Android Developer with **Java**
-- 💙 Currently learning **Flutter App Development**
 - 🌐 Experienced with **WordPress Website Development**
 - 🧪 Interested in **Software Quality Assurance (SQA)**
 - 🌱 Always learning new technologies and improving my development skills
